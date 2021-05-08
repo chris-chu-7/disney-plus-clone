@@ -1,5 +1,4 @@
-//2:06:30
-
+//1:02:15 second video
 import React, {useEffect} from 'react';
 import styled from 'styled-components';
 import ImgSlider from './ImgSlider';
