@@ -6,8 +6,14 @@
 
 <b> HOW I DID IT </b>
 Utilized <b>React JS</b> for the Frontend.
+
+
 Utilized <b>Firebase</b> for user authentication, logging in, logging out, and hosting the webpage
+
+
 Utilized <b> materialui components library </b> for the slider. 
+
+
 
 <b> DEMO: </b>
 
